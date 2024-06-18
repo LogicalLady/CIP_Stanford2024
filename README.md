@@ -1,2 +1,2 @@
 # CIP_Stanford2024
-Practice from Code In Place
+passcore.csv file is an example of the input that Project_Basics.py can take
